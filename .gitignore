@@ -1,0 +1,9 @@
+# Compilación de SwiftPM y la app empaquetada por build_app.sh
+.build/
+*.app
+.swiftpm/
+
+# Xcode y macOS
+xcuserdata/
+DerivedData/
+.DS_Store
